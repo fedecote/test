@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Pepe1asdasdas
+=======
+Pepe1
+nueva linea
+>>>>>>> 778e518aed68f99ec7ac27a04f8af3fff7b5dae0
